@@ -8,7 +8,7 @@
 
 The OMAR programming language is a high level, general purpose language that prioritizes readability and ease of use.  It uses a static typing system and built in array and data structure capabilities which enable high performance.  
 
-### Documentation
+# Documentation
 
 For details about how to use the OMAR programming language, see the [OMAR Programming Language Reference Manual](docs/The OMAR Programming Language.pdf).
 
