@@ -1,0 +1,6 @@
+do hello_world;
+
+
+verb hello_world is
+	write "hello world!", ;
+end;	// hello world

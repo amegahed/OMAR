@@ -1,0 +1,8 @@
+ 1
+"C:\Documents and Settings\megaheda\Desktop\Delphi Omar\Compiler Test\hello_world.omar"
+1
+1 4 1 "hello_world"
+3
+1 5
+2 5
+3 0
