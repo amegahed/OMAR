@@ -10,7 +10,7 @@ The OMAR programming language is a high level, general purpose language that pri
 
 # Documentation
 
-For details about how to use the OMAR programming language, see the [OMAR Programming Language Reference Manual](docs/The OMAR Programming Language.pdf).
+For details about how to use the OMAR programming language, see the [OMAR Programming Language Reference Manual](./docs/the-omar-programming-language.pdf).
 
 
 # History
